@@ -1,4 +1,4 @@
-GaiaPlatform
+Gaiacoin
 ============
 
 GAIA coin offers the security and reliability of the blockchain with an Extensible, Skinnable, Modular 
